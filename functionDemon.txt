@@ -1,0 +1,6 @@
+git add . //지트 추가
+git commit -m "comment"
+git push
+
+//로그인
+git remote add origin https://github.com/dohyung4242/프로젝트.git
